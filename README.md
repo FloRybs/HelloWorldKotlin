@@ -1,2 +1,2 @@
 # HelloWorldKotlin
-HelloWorld
+Program implementujący counter
