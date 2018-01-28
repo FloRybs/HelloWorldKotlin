@@ -2,7 +2,7 @@ package pl
 
 class nowaKlasa {
 
-    var zmienna1: Int = 1
+    private var zmienna1: Int = 1
 
     fun setZmienna1(c: Int): Int {
         this.zmienna1 = c
